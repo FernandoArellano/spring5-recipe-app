@@ -52,3 +52,4 @@ Got a question about your Spring Framework 5 course? [Checkout these FAQs!](http
 * Connect with John Thompson on [LinkedIn](http://www.linkedin.com/in/springguru)
 
 Simple change to trigger build
+test 2
